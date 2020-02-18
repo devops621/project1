@@ -1,2 +1,3 @@
-# project1
-My  first project
+# maven-project
+
+Simple Maven Project
